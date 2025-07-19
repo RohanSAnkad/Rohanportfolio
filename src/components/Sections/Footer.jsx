@@ -24,7 +24,7 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: FiGithub,
-      url: 'https://github.com/RohanSAnkad/RohanAnkad',
+      url: 'https://github.com/RohanSAnkad',
       color: 'hover:text-gray-400'
     },
     {

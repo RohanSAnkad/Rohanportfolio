@@ -199,9 +199,8 @@ const HeroSection = () => {
                 className="flex justify-center space-x-6 mb-8"
               >
                 {[
-                  { icon: FiGithub, href: "#" },
-                  { icon: FiLinkedin, href: "#" },
-                  { icon: Mail, href: "#" },
+                  { icon: FiLinkedin, href: "https://www.linkedin.com/in/rohan-s-ankad-038131224/" },
+                  { icon: FiGithub, href: "https://github.com/RohanSAnkad" },
                 ].map((social, index) => (
                   <motion.a
                     key={index}
@@ -335,6 +334,7 @@ const HeroSection = () => {
                 {[
                   
                   { icon: FiLinkedin, href: "https://www.linkedin.com/in/rohan-s-ankad-038131224/" },
+                  { icon: FiGithub, href: "https://github.com/RohanSAnkad" },
                   
                 ].map((social, index) => (
                   <motion.a

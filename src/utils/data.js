@@ -233,7 +233,7 @@ export const SOCIAL_LINKS = [
     {
       name: "GitHub",
       icon: FiGithub,
-      url: "https://github.com/RohanSAnkad/RohanAnkad",
+      url: "https://github.com/RohanSAnkad",
       color: "hover:text-gray-400",
       bgColor: "hover:bg-gray-800",
     },
